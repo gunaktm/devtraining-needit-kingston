@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="insert" max_length="123" name="insert" type="string"/>
+        <element label="iphone" max_length="1000" name="iphone" type="integer"/>
+    </element>
+</database>
